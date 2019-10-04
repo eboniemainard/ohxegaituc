@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aitheezei.erler-motor-club.de/sitemap.xml
